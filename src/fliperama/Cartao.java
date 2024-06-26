@@ -1,6 +1,8 @@
 
 package fliperama;
-
+/*
+Cartao que armazena apenas informacao para outros objetos
+*/
 
 public class Cartao {
 
